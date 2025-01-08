@@ -1,0 +1,6 @@
+# here we put those file on which we do no want to apply prettier
+*.env
+.env
+.env.*
+/node_modules
+./dist
