@@ -1,3 +1,4 @@
+//2 file
 import { DB_NAME } from "../constants.js";
 import mongoose from "mongoose";
 

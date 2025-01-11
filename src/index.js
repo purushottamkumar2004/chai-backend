@@ -1,3 +1,4 @@
+//1 file
 import dotenv from "dotenv"
 import connectDB from "./db/indexdb.js"
 
