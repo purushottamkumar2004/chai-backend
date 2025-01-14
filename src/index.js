@@ -1,7 +1,7 @@
 //1 file
 import dotenv from "dotenv"
 import connectDB from "./db/indexdb.js"
-
+import { app } from "./app.js"
 
 
 dotenv.config({               //this is just a simple function written to import .env 
